@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+#header {
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.svg_icons {
+  transform: scale(1.07);
+}
+
